@@ -7,20 +7,17 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Emmanuel%20Oluwasina&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Mobile%20Architect&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Emmanuel%20Oladipo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Mobile%20Architect&descAlignY=55&descSize=18" width="100%"/>
   
   <!-- Location Badge -->
   <a href="https://www.google.com/maps/place/Ibadan,+Nigeria">
-    <img src="https://img.shields.io/badge/📍_Ibadan,_Oyo_State,_Nigeria-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=FF6B6B" alt="Location"/>
+    <img src="https://img.shields.io/badge/Ibadan,_Oyo_State,_Nigeria-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=FF6B6B" alt="Location"/>
   </a>
   
   <!-- Portfolio Link -->
   <a href="https://emmalink.netlify.app/">
-    <img src="https://img.shields.io/badge/🔗_Portfolio-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white&labelColor=4ECDC4" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white&labelColor=4ECDC4" alt="Portfolio"/>
   </a>
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Emmanuel4503&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile Views"/>
   
 </div>
 
@@ -38,9 +35,8 @@
 ```javascript
 const emmanuel = {
   role: "Software Engineer",
-  location: "Ibadan, Nigeria 🌍",
+  location: "Ibadan, Nigeria",
   passion: "Building products that matter",
-  currentFocus: ["AI Integration", "Cloud Architecture", "Mobile Excellence"],
-  lifePhilosophy: "Code is poetry written in logic",
+  currentFocus: ["AI Integration", "Cloud Architecture", "Website and Mobile Excellence"],
   availableFor: "Freelance & Collaboration"
 };
